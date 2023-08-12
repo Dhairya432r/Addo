@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Addo/static/css/main.1476998d.css",
+    "main.js": "/Addo/static/js/main.a3ee5712.js",
+    "static/js/787.c18e5e2a.chunk.js": "/Addo/static/js/787.c18e5e2a.chunk.js",
+    "static/media/logo.svg": "/Addo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Addo/index.html",
+    "main.1476998d.css.map": "/Addo/static/css/main.1476998d.css.map",
+    "main.a3ee5712.js.map": "/Addo/static/js/main.a3ee5712.js.map",
+    "787.c18e5e2a.chunk.js.map": "/Addo/static/js/787.c18e5e2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1476998d.css",
+    "static/js/main.a3ee5712.js"
+  ]
+}
